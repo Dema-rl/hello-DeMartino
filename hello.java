@@ -13,6 +13,8 @@ public class hello {
 
 		//stampo il tifo della squadra 
 		System.out.println("Forza Spezia!");
+
+		System.out.println("Ciao compagno son giada sasso e sono un coglione :D :D :D");
 	}
 }
 
